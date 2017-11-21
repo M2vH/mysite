@@ -1,3 +1,12 @@
 # Build Settings
 markdown: kramdown
 theme: jekyll-theme-hacker
+
+# Customizing the theme
+title: A M2vH Site
+description: Using Jekyll to serve my default static website.
+
+show_downloads: false
+
+## My SEO
+google_analytics: UA-61449151-2
