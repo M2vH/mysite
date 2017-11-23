@@ -2,7 +2,7 @@
   font-family: 'Batman Forever';
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/batmanforever/batmfafont.ttf") format("truetype");
+  src: url("../fonts/batmfafont.ttf") format("truetype");
 }
 
 .batman {
